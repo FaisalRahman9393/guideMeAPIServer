@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="cc.plural:jsonij:0.2.11" type="repository">
+    <properties maven-id="cc.plural:jsonij:0.2.11" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cc/plural/jsonij/0.2.11/jsonij-0.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
